@@ -31,7 +31,7 @@
     "chrome-webstore-upload": "^0.2.0",
     "junk": "^1.0.2",
     "meow": "^3.7.0",
-    "ora": "^0.2.3",
+    "ora": "^0.4.1",
     "pify": "^2.3.0",
     "recursive-readdir": "^2.0.0",
     "yazl": "^2.3.1"
